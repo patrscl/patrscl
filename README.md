@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fprogram%2F&psig=AOvVaw0wCISGwCE3EWoLypFInL2K&ust=1703068381007000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjx2aamm4MDFQAAAAAdAAAAABAE" width="350" title="hover text">
+  <img src="https://pixabay.com/illustrations/matrix-code-computer-pc-data-356024/" width="350" title="hover text">
 </p>
 🎓 Voici quelques informations sur moi et ma carrière :
 
