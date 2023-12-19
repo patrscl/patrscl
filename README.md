@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://www.yeeply.com/fr/wp-content/uploads/2022/05/software-developer-g900e29bfc_640.jpg">
 </p>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 🎓 Voici quelques informations sur moi et ma carrière :
 
     🎓  Étudiant en 3e année bachelier a la HEH à Mons en Informatique Orientation réseaux & télécommunications option sécurité
