@@ -1,4 +1,3 @@
-![from_url]([https://i.imgur.com/your-profile-picture.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fprogram%2F&psig=AOvVaw1YOUHxMP0JcApYoFzaLtsm&ust=1703061928706000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIiM6JqOm4MDFQAAAAAdAAAAABAE))
 🎓 Voici quelques informations sur moi et ma carrière :
 
     🎓  Étudiant en 3e année bachelier a la HEH à Mons en Informatique Orientation réseaux & télécommunications option sécurité
