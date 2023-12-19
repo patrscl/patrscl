@@ -1,6 +1,6 @@
 🎓 Voici quelques informations sur moi et ma carrière :
 
-    🎓  Étudiant en 3e année bachelier a la HEH à Mons en Informatique Orientation réseaux & télécommunications avec option sécurité
+    🎓  Étudiant en 3e année bachelier a la HEH à Mons en Informatique Orientation réseaux & télécommunications option sécurité
     
 🛠 J'ai les compétences suivantes :
 
