@@ -4,20 +4,15 @@
     
 🛠 J'ai les compétences suivantes :
 
-    👩‍💻 PHP, SQL, HTML, CSS, REACT
-    💻 PYTHON, C#
+    👩‍💻 PHP, SQL, HTML, CSS, REACT, JS, JQuery, PYTHON, C#
+    💻 Linux, Windows Server
     🌐 Fortinet, Cisco
 
 🔥 Voici mes centres d'intérêt :
 
     🚀 L'accomplisement
     🤝 Travail en équipe
-
-🌟 Mon parcours en tant que Chef de Projet chez ABC Corporation :
-
-    🔨 Projet 1 : Réalisation d'un cv en HTML, JS, CSS 
-    🔨 Projet 2 : Réalisation 
-    🔨 Projet 3 : Création d'un site Web pour promouvoir les services de l'entreprise
+    ⚽ Le sport 
 
 🤝 Pour me contacter :
 
