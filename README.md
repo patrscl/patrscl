@@ -5,7 +5,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 🎓 Voici quelques informations sur moi et ma carrière :
 
-    🎓  Étudiant en 3e année bachelier a la HEH à Mons en Informatique Orientation réseaux & télécommunications option sécurité
+    🎓  Étudiant en 3e année dans un bachelier en Informatique et système orientation réseaux & télécommunications option sécurité
     
 🛠 J'ai les compétences suivantes :
 
@@ -22,13 +22,8 @@
 🤝 Pour me contacter :
 
     📧 patrick.lassois@live.be
-
-N'oubliez pas de me suivre sur les réseaux sociaux pour rester à jour sur mes dernières réalisations et actualités.
-
     💙 LinkedIn
-    🐦 Twitter
-    📸 Instagram
-    👥 Facebook
+
 
 Merci de lire mon profil et à bientôt ! 😊
 
