@@ -27,4 +27,4 @@
 
 Merci de lire mon profil et à bientôt ! 😊
 
-©️ 2022 Lassois Patrick. All rights reserved.
+©️ 2024 Lassois Patrick. All rights reserved.
