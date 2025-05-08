@@ -1,20 +1,17 @@
-<p align="center">
-  <img src="https://leshorizons.net/wp-content/uploads/2019/06/DataCenter.jpg">
-</p>
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-🎓 Voici quelques informations sur moi et ma carrière :
+🎓 Etudes :
 
-    🎓  
+    🎓  Bachelier en Informatique Orientation réseaux & télécommunications, Option sécurité
+    ⌛ Master en sciences de l'ingénieur industriel orientation Informatique, Option Intelligence artificielle et Big Data
     
-🛠 J'ai les compétences suivantes :
+🛠 Compétences :
 
-    👩‍💻 PHP, SQL, HTML, CSS, REACT, JS, JQuery, PYTHON, C#
+    👩‍💻 PHP, SQL, HTML, CSS, REACT, JS, JQuery, PYTHON, C#, C++
     💻 Linux, Windows Server
     🌐 Fortinet, Cisco
 
 🤝 Pour me contacter :
 
-    💙 LinkedIn
+    💙 LinkedIn : https://be.linkedin.com/in/patrick-lassois-113598273
 
-©️ 2024 Lassois Patrick. All rights reserved.
+©️ 2025 Lassois Patrick. All rights reserved.
